@@ -8,6 +8,6 @@
   - number of digits(numbers)
  
 # try it 
-[here](https://onlinegdb.com/ksjTSF-WT)
+[here](https://onlinegdb.com/xwAcFRmOT)
 
 # This project was inispired by [Rishabh Narayan](https://gist.github.com/ri5h46h)
