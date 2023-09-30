@@ -36,7 +36,7 @@ int main() {
                 sympl_len++;
             }
         }
-        cout << sympl_len << " : " << digit_len << " : " <<  str << endl;
+        // cout << sympl_len << " : " << digit_len << " : " <<  str << endl;
     if (pass_len > 2 && (sympl_len  != 2 || digit_len  != 3)) {
         goto GENERATE_VALID;
     }
